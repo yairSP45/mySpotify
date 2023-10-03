@@ -1,0 +1,1302 @@
+{
+  "query": "mexico",
+  "playlists": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZEVXbO3qyFxbkOE1",
+          "name": "Top 50 - Mexico",
+          "description": "Your daily update of the most played tracks right now - Mexico.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_mx_default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:0iRYimgRUT52YoGmg1jerj",
+          "name": "",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e02cd01fafda3b8e3b37c8be1abab67616d00001e02dfb31c7ab85917de867833a8",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e02cd01fafda3b8e3b37c8be1abab67616d00001e02dfb31c7ab85917de867833a8",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e02cd01fafda3b8e3b37c8be1abab67616d00001e02dfb31c7ab85917de867833a8",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Roberto Casasola Saavedra"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX53wq0WYtg5L",
+          "name": "¡Viva México!",
+          "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000212d1283686774e8db1235653",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5KLKS1zjjeqSe6oRgsdUMb",
+          "name": "MEXICO Top 100 🇲🇽 (actualizada cada semana) ",
+          "description": "La música que está marcando tendencia en Mexico curada por Diskover. Latin Reggaeton Pop Trap Latino Rock Alternativo. Duki Khea Paulo Londra Lenny Tavarez Ysy A Sofia Reyes Bad Bunny J Balvin Daddy Yankee Becky G Ozuna Romeo Santos Aitana Sebastian Yatra Maluma Noriel Reik Nio Garcia Nicky Jam",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da840f272261f53fc5d57a9f3335",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Diskover Co."
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX1dJrNuyDEgy",
+          "name": "México Lindo & Querido",
+          "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002cf86a1f420dbd6ae23fb0926",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX5BAPG29mHS8",
+          "name": "Éxitos México",
+          "description": "Los hits de ahora en la playlist más grande de México. Peso Pluma en portada. ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002b57f05525612d9359041aa54",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1n7CkhyyWuXXsa9UPijnoF",
+          "name": "México en la piel 🇲🇽",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02629d9993b3ea8f4c71f1b4a6ab67616d00001e02652127c879c79c503df95aebab67616d00001e0299553349c943faf8c9d45ebbab67616d00001e02f1443401545e24efd564c2e9",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02629d9993b3ea8f4c71f1b4a6ab67616d00001e02652127c879c79c503df95aebab67616d00001e0299553349c943faf8c9d45ebbab67616d00001e02f1443401545e24efd564c2e9",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02629d9993b3ea8f4c71f1b4a6ab67616d00001e02652127c879c79c503df95aebab67616d00001e0299553349c943faf8c9d45ebbab67616d00001e02f1443401545e24efd564c2e9",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "ceciliagbarrientos"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DXbdrcAZnP3Cy",
+          "name": "Mexican Party Anthems",
+          "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000026136ca41b59f093791bbceec",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2NNEKj8Kj3IQ9C4xFiV4AD",
+          "name": "MÉXICO EN MI VOZ- Christian Nodal - La Media Vuelta ",
+          "description": "CHRISTIAN NODAL -  México En Mi Voz - La Media Vuelta - Acá entre nos - Mujeres divinas - La ley del monte - Ya lo sé que tú te vas",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84db0d4d2f3c54cfae7fbc8bb7",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Top Banda"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWVHIYChxh9sq",
+          "name": "Música Mexicana En Vivo",
+          "description": "Música en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002c264af6f83c223cdba624e4c",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:7m3Qm2Z8FHg8mnqDd5tyZ9",
+          "name": "México En La Piel",
+          "description": "Sabor a celebración mexicana, en la voz de <a href=\"http://www.facebook.com/LMXLM\">Luis Miguel.</a> ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84f3832eef0b3992e846b36a0e",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Luis Miguel"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWSujWHEEwoTJ",
+          "name": "La Marisquería con Ozz",
+          "description": "Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile. ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000021a5b600ec541d8034a2e8a6c",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3syIYEx4gZGNTWmInxfzJC",
+          "name": "Mexico De Radio 🇲🇽",
+          "description": "Mejores de Música con tus favoritos las fiesta y mas!!!",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021e2b2e1625496fc42160aff5ab67616d00001e025561c74675211d7e4c74a558ab67616d00001e02b5b0e65c77ebd944f869e308ab67616d00001e02ef8bfa70aeb9a91eee8d541c",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021e2b2e1625496fc42160aff5ab67616d00001e025561c74675211d7e4c74a558ab67616d00001e02b5b0e65c77ebd944f869e308ab67616d00001e02ef8bfa70aeb9a91eee8d541c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021e2b2e1625496fc42160aff5ab67616d00001e025561c74675211d7e4c74a558ab67616d00001e02b5b0e65c77ebd944f869e308ab67616d00001e02ef8bfa70aeb9a91eee8d541c",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "goodfrienderik23"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWZKpHIbfDI1i",
+          "name": "Top México",
+          "description": "La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs. Christian Nodal en portada.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002ad225fd5d0433df0c225d6c2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:6hCjqfGL7MoFDb8LSeK7YI",
+          "name": "MEXICO INDEPENDENCE",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023b28f646d1e158acbcbad7bfab67616d00001e0243dfca6cb28a17fca44ddea8ab67616d00001e0261cc4dccf90ea4411616dfd1ab67616d00001e02943d2ffefb29baaa9844c1fc",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023b28f646d1e158acbcbad7bfab67616d00001e0243dfca6cb28a17fca44ddea8ab67616d00001e0261cc4dccf90ea4411616dfd1ab67616d00001e02943d2ffefb29baaa9844c1fc",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023b28f646d1e158acbcbad7bfab67616d00001e0243dfca6cb28a17fca44ddea8ab67616d00001e0261cc4dccf90ea4411616dfd1ab67616d00001e02943d2ffefb29baaa9844c1fc",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Scott.strothers"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWYMHB55fgZrY",
+          "name": "Iconos del Rock Mexicano",
+          "description": "Los próceres de la historia del rock nacional. Moderatto en portada.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000026c10ac650286379622161a69",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5zzQdotIfFs2xNnGhs6Y9k",
+          "name": "Mexico Beach Vibes",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0224e02fc97dd7d653c3929961ab67616d00001e0249d694203245f241a1bcaa72ab67616d00001e02ae51528f057c634311b58cd9ab67616d00001e02dc1e881b8bb3e6ca57e82fcd",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0224e02fc97dd7d653c3929961ab67616d00001e0249d694203245f241a1bcaa72ab67616d00001e02ae51528f057c634311b58cd9ab67616d00001e02dc1e881b8bb3e6ca57e82fcd",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0224e02fc97dd7d653c3929961ab67616d00001e0249d694203245f241a1bcaa72ab67616d00001e02ae51528f057c634311b58cd9ab67616d00001e02dc1e881b8bb3e6ca57e82fcd",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Taylor M."
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWXDdJhxmcmN7",
+          "name": "lofi mexa",
+          "description": "los mejores beats producidos en tierras mexicanas 🌵",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000023b46d6bf97ce80fcc3e90a00",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:6ueiaQ9HhRUDzADw9K8doD",
+          "name": "Mexico Vacation 🏖",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023f6f4ab78c05dfdfcc37a205ab67616d00001e02413a6c2c7b296d98171e5e21ab67616d00001e024fdb0337978c7464cdfb1783ab67616d00001e026c8e68955407f9b14c06b7c4",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023f6f4ab78c05dfdfcc37a205ab67616d00001e02413a6c2c7b296d98171e5e21ab67616d00001e024fdb0337978c7464cdfb1783ab67616d00001e026c8e68955407f9b14c06b7c4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023f6f4ab78c05dfdfcc37a205ab67616d00001e02413a6c2c7b296d98171e5e21ab67616d00001e024fdb0337978c7464cdfb1783ab67616d00001e026c8e68955407f9b14c06b7c4",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "alexesboldt_"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5mge2V5XSBwgie78ahENe2",
+          "name": "The Best Mexican Music❤️🇲🇽",
+          "description": "These are some Cuh&#x2F;mexican songs. I hope you like them:)",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84519f86f6b73caccab7003469",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "𝒰𝒽𝒽𝒽"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWVuVYbdq3h1k",
+          "name": "Los 2000 México",
+          "description": "Sí, ¡ya estamos viejos!",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002c7db943630c3cd9655c2a612",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZEVXbLuUZrygauiA",
+          "name": "Viral 50 - Mexico",
+          "description": "Your daily update of the most viral tracks right now - Mexico.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_mx_default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2HtNNVgR29QBmnOtBlzQkK",
+          "name": "15 de septiembre Exitos 🇲🇽 Fiesta Mexicana  2023 🇲🇽 Viva México 🇲🇽 Noche Mexicana 2023🇲🇽 Mes Patrio 2023",
+          "description": "Mariachi éxitos para fiesta mexicana 🇲🇽 Rancheras Mexicanas Mes patrio 2022 🇲🇽",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da849db355d1c4d0421407f4a9c2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Regional Mexicano Radio"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWZeIwHbnsb6O",
+          "name": "Los 70 México",
+          "description": "Recuerda la década de los acampanados, patillas y cuellos picudos",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002e17adfc0ebfe5a12e4b45825",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5sQ9w5rJbcMjpW2CB1shtC",
+          "name": "MÉXICO",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "DanielaJm"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX8idxeA9K8sJ",
+          "name": "Los 80 México",
+          "description": "Recuerda los éxitos ochenteros que sonaron en la radio mexicana.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000244d80e445075e1446d0592e2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1VqQLeR3QnaZmxJPWQtLiR",
+          "name": "Mexico City Café ☕️",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0215af2b90379cfae0bfda956cab67616d00001e02a53212536ff268e2ce7bf1f7ab67616d00001e02bcf2e51e254b5bdd336c6cd9ab67616d00001e02d266d98f5f9a0ba1fd1aeac1",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0215af2b90379cfae0bfda956cab67616d00001e02a53212536ff268e2ce7bf1f7ab67616d00001e02bcf2e51e254b5bdd336c6cd9ab67616d00001e02d266d98f5f9a0ba1fd1aeac1",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0215af2b90379cfae0bfda956cab67616d00001e02a53212536ff268e2ce7bf1f7ab67616d00001e02bcf2e51e254b5bdd336c6cd9ab67616d00001e02d266d98f5f9a0ba1fd1aeac1",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "sidrashaw"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5lM5fGubOpqEcNvDe6Wwm3",
+          "name": "VIVA MÉXICO 🇲🇽 15 DE SEPTIEMBRE - MES PATRIO - LO MEJOR DE LA MÚSICA MEXICANA",
+          "description": "Lo mejor del mariachi para una noche mexicana 🇲🇽septiembre ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020d6d38ad94cc47469c1abcb9ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e02cd01fafda3b8e3b37c8be1ab",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020d6d38ad94cc47469c1abcb9ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e02cd01fafda3b8e3b37c8be1ab",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020d6d38ad94cc47469c1abcb9ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e02cd01fafda3b8e3b37c8be1ab",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Nuevo Regional Mexicano"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWVACbHMzNf0B",
+          "name": "MEXCLA",
+          "description": "Somos una fusión que nunca termina... MEXCLA somos. KAROL G en portada.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000028faab6aceaf337e9ec398eae",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DXbEuT2QnORVM",
+          "name": "México-Tenochtitlán",
+          "description": "El pulso de la Gran Tenochtitlán sigue vivo en la música que evoca su mundo místico.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000276a11db30388d53b0cfbc15a",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:66USlVtutYIyVdDxSucoQr",
+          "name": "INDEPENDENCIA DE MÉXICO",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e026e0d32e1bcd1d17870781994ab67616d00001e0279dfd0388c9f2d37d8f3d211ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fc",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e026e0d32e1bcd1d17870781994ab67616d00001e0279dfd0388c9f2d37d8f3d211ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fc",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e026e0d32e1bcd1d17870781994ab67616d00001e0279dfd0388c9f2d37d8f3d211ab67616d00001e0282c02633dd8233572c3101f1ab67616d00001e02943d2ffefb29baaa9844c1fc",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "chrisfransanavi"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX10A9MXc7csF",
+          "name": "Música Mexicana Rising",
+          "description": "The new school of Música Mexicana. Cover: Adrian L Santos & Oscar Maydon",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000202265196256ae18a1023cf69",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3TdsIGRmPwQujPPCL9ZA3h",
+          "name": "México Hits Latino",
+          "description": "Cartelera TOPMUSIC infórmate con las noticias del entretenimiento proyección Nacional e Internacional",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84d7257580640f91ee4bf77e0b",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Colombia Music Inc"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:7l2OUa2FXm82Yfhcj2Kf8d",
+          "name": "México Independence Day 🇲🇽",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e0299553349c943faf8c9d45ebbab67616d00001e02b5f2ecb435ab36aff635568aab67616d00001e02f1443401545e24efd564c2e9",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e0299553349c943faf8c9d45ebbab67616d00001e02b5f2ecb435ab36aff635568aab67616d00001e02f1443401545e24efd564c2e9",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02943d2ffefb29baaa9844c1fcab67616d00001e0299553349c943faf8c9d45ebbab67616d00001e02b5f2ecb435ab36aff635568aab67616d00001e02f1443401545e24efd564c2e9",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Don George"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO0qc5zO",
+          "name": "This Is Mexikolombia",
+          "description": "This is Mexikolombia. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0qc5zO-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2RheJTqMxF578E0VPLML0t",
+          "name": "Mexico – Karan Aujla",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02633a2d775747bccfbcb17a45ab67616d00001e02775331f1b445f1f60a1061eaab67616d00001e02a31b36a18171addd0824bcb1ab67616d00001e02e62ca3548e739bd85eebbbc9",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02633a2d775747bccfbcb17a45ab67616d00001e02775331f1b445f1f60a1061eaab67616d00001e02a31b36a18171addd0824bcb1ab67616d00001e02e62ca3548e739bd85eebbbc9",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02633a2d775747bccfbcb17a45ab67616d00001e02775331f1b445f1f60a1061eaab67616d00001e02a31b36a18171addd0824bcb1ab67616d00001e02e62ca3548e739bd85eebbbc9",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "raj"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:7g4oeyJH92BV6BzJbBVO4p",
+          "name": "Mexico City Vibes 🇲🇽🌵☀️",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84c73fc7257f82f4b30fdebf90",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Jose Mialma"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWZfQQ5UXqF0s",
+          "name": "Los 90 México",
+          "description": "¡Nuestros amados 90 los recordamos así!",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002e1b8efaf5451c5c433f2cc44",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX6kTuqlKpqS9",
+          "name": "Mariachi en Vivo",
+          "description": "¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f00000002c9674e0903fd17e3b8d3a3e2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:7LvJYGdSwLhgJl8x1OFnmX",
+          "name": "México Hits",
+          "description": "Cartelera TOPMUSIC infórmate con las noticias del entretenimiento proyección Nacional e Internacional Contact: @Colombiamusicinc",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84d189859dc49f96e886a85903",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Colombia Music Inc"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:72O6JgPamztlXQeYaYo8LO",
+          "name": "Mexican Party Music",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e024640a26eb27649006be29a94ab67616d00001e029aa8d7be173b81b758994fc6ab67616d00001e02caae658a87b84cfcd8a443caab67616d00001e02e1dae09a954bd7dce208bf46",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e024640a26eb27649006be29a94ab67616d00001e029aa8d7be173b81b758994fc6ab67616d00001e02caae658a87b84cfcd8a443caab67616d00001e02e1dae09a954bd7dce208bf46",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e024640a26eb27649006be29a94ab67616d00001e029aa8d7be173b81b758994fc6ab67616d00001e02caae658a87b84cfcd8a443caab67616d00001e02e1dae09a954bd7dce208bf46",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "jesus.moreno4062"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DXbpJNWtkXDpL",
+          "name": "RADAR México",
+          "description": "De Culiacán, Sinaloa, para el mundo... La Receta en RADAR México. ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000022f9f8f3c71e1a5488b9e2b3c",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1C7kQDKmVctQ8x2daZ09DY",
+          "name": "MEXICO EN MI VOZ - Christian Nodal ",
+          "description": "Ya No Somos Ni Seremos | Por El Resto De Tu Vida | Botella Tras Botella | De Los Besos Que Te Di | Aqui Abajo | Adios Amor | No Te Contaron Mal | La Mitad | Pa Olvidarme De Ella",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84607791b0d9615ac777ec8d8e",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Playlist Radio"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX8QTbjMPWoLK",
+          "name": "Listen Local:\tMexico City",
+          "description": "Explore a made for you mix of new music from Mexico City based artists.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000220c80c77cc5822c3503fc92f",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1BGQIIEUVwLsSKUzOBXqsu",
+          "name": "Mexico Club Playlist",
+          "description": "Para mis compas - J",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0243ec4e5bf12be32fc0beaac2ab67616d00001e0260ff7186ccd7590e1eaae58dab67616d00001e02caf82abb2338880577e472beab67616d00001e02f0dd8e557b66318ea8e6978d",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0243ec4e5bf12be32fc0beaac2ab67616d00001e0260ff7186ccd7590e1eaae58dab67616d00001e02caf82abb2338880577e472beab67616d00001e02f0dd8e557b66318ea8e6978d",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0243ec4e5bf12be32fc0beaac2ab67616d00001e0260ff7186ccd7590e1eaae58dab67616d00001e02caf82abb2338880577e472beab67616d00001e02f0dd8e557b66318ea8e6978d",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Alexandra Lorenz"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX3xLGqpmU1Uv",
+          "name": "Los 60 México",
+          "description": "¡Las canciones que ponían a bailar a todo México!",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000027de072c14233ee1a289b4a26",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3zauasvt1dQYJzPUf7IO4d",
+          "name": "Mexico rap 🇲🇽💯",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020c76643f47efc1d347484db7ab67616d00001e025584bc1fa2c844a6e8c95fe9ab67616d00001e0263d42122d482abd422d9bc25ab67616d00001e027817734b9b2b44ecb8b4d84f",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020c76643f47efc1d347484db7ab67616d00001e025584bc1fa2c844a6e8c95fe9ab67616d00001e0263d42122d482abd422d9bc25ab67616d00001e027817734b9b2b44ecb8b4d84f",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020c76643f47efc1d347484db7ab67616d00001e025584bc1fa2c844a6e8c95fe9ab67616d00001e0263d42122d482abd422d9bc25ab67616d00001e027817734b9b2b44ecb8b4d84f",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Jose Cruz"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWTQYQoFqAGok",
+          "name": "Jazz en México",
+          "description": "Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000285d83fc586ba50763a841dda",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2JKjO5lTT26Eg8UUmacTad",
+          "name": "MEXICO EN LOS 70'S 80'S 90'S",
+          "description": "Un poco de toda la música de las mejores décadas de la música mexicana y latina.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84418837a9498f16b5a7be332f",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "YOGUEZ"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX2rtAnhOgHNC",
+          "name": "Los 2010 México",
+          "description": "Los grandes éxitos de la década pasada, en México.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000023e888c94e7b9d648d2cdc243",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      }
+    ],
+    "pagingInfo": {
+      "nextOffset": 50,
+      "limit": 50
+    }
+  }
+}

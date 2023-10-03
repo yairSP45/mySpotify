@@ -1,0 +1,89 @@
+.iconoInicio {
+    color: #b3b3b3;
+}
+
+.iconoInicio:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.navTop {
+    height: 50px!important;
+    width: 100%;
+    display: flex;
+    color: white!important;
+}
+
+.actions {
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.register {
+    color: #6a6a6a;
+    margin-right: 20px;
+    font-size: 1rem;
+}
+.register:hover {
+    color: white;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.login {
+    color: black;
+    background-color: white;
+    padding: 10px;
+}
+.login:hover {
+    cursor: pointer;
+    transform: scale(1.2); 
+}
+
+.greenCircle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #1cd760;
+    position: relative;
+    right: -75%;
+    bottom: 15%;
+    visibility: hidden;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.greenCircle:hover {
+    cursor: pointer;
+}
+
+.card-title:hover {
+    cursor: pointer;
+}
+
+.spotyCard:hover {
+    > .greenCircle {
+        visibility: visible;
+    }
+}
+
+.myPlaylist {
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll!important;
+    flex-wrap: nowrap;
+}
