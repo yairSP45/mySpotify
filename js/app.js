@@ -30,12 +30,22 @@ const creaTarjetas = (cards) => {
 }
 
 const openSpoty = (e) => {
-    // console.log(e.target.dataset.id)
-    window.location.replace(`https://open.spotify.com/embed?uri=${e.target.dataset.id}`)
+    const nomAlbum = e.target.closest('.card').querySelector('h5').textContent
+    const imgAlbum = e.target.closest('.card').querySelector('img').getAttribute('src')
+
+    localStorage.setItem('nomAlbum', nomAlbum)
+    localStorage.setItem('imgAlbum', imgAlbum)
+    window.location.replace(`/playlist.html?id=${e.target.dataset.id}`)
 }
+
 
 const openPlaylist = (e) => {
     // console.log(e.target.dataset.id)
     // console.log('e => ', e)
+    const nomAlbum = e.target.closest('.card').querySelector('h5').textContent
+    const imgAlbum = e.target.closest('.card').querySelector('img').getAttribute('src')
+
+    localStorage.setItem('nomAlbum', nomAlbum)
+    localStorage.setItem('imgAlbum', imgAlbum)
     window.location.replace(`/playlist.html?id=${e.target.dataset.id}`)
 }

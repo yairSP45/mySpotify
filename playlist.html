@@ -1,17 +1,76 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
-    
-    <title>my Spotify - Playlist 🎵</title>
-  </head>
-  <body>
-    <div style="width: 100%; height: 100vh; background-color: black; display: flex;">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="./css/spotify.css">
+  <title>My Spotify - Playlist 🎵</title>
+</head>
+<body>
+  <div style="width: 100%; height: 100%; background-color: black; display: flex; color:#b3b3b3; overflow-y: hidden!important;"">
+    <div class="col-12">
+      <div class="container-fluid cew-9">
+        <div class="row">
+          <div class="col" id="imagenAlbum">
+            <img src="..." class="card-img-top m-2 " style="width: 75%; height: 85%;" alt="...">
+          </div>
+          <div class="col-6 " style="padding: 3%;">
+            <div>
+              <div class="col">
+                <div class="row">
+                  <h1 id="nomAlbum">
+                    Top 50 M
+                  </h1>
+                </div>
+                <div class="row">
+                  <span>
+                    <h2>
+                      Preview
+                    </h2>
+                  </span>
+                  <div class="row">
+                    <i class="bi bi-plus-circle fs-4"> Save on Spotify</i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="row">
+              <div class="col iconspotify">
+                <i class="bi bi-spotify fs-4"></i>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col iconsplay">
+                <button id="botonRegresar" style="background-color: #121212; color: #b3b3b3;">
+                  <i class="bi bi-arrow-left-circle"></i> Regresar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="content m-2">
+          <div class="row mylistCanciones" id="listCanciones"></div>
+        </div>
+      </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script src="./js/playlist.js"></script>
-  </body>
+  </div>
+  <template id="listCan">
+    <ol class="list-group" style="background-color: #181818;">
+      <li class="list-group-item d-flex justify-content-between align-items-start" style="background-color: #181818; color:  #b3b3b3;">
+        <span class="badge bg-secondary" id="numeroCancion">1</span>
+        <div class="ms-2 me-auto" id="artistaNombre">
+          <div class="fw-bold" id="nomCancion">Nombre de la canción</div>
+          <div id="nombresArtistas">Nombre del artista</div>
+        </div>
+        <span class="badge bg-primary rounded-pill" id="duracion">00:00</span>
+      </li>
+    </ol>
+  </template>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <script src="./js/playlist.js"></script>
+</body>
 </html>
